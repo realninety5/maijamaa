@@ -49,12 +49,31 @@ foo(3)
 ~~~
 
 And here is the same code with syntax highlighting:
-
+_Javascript_
 ```javascript
 var foo = function(x) {
   return(x + 5);
 }
 foo(3)
+```
+
+_Java_
+```java
+public class Foo {
+    public static int addXto5(int x) {
+        return x + 5;
+    }
+
+  public static void main(String[] args) {
+    System.out.println(addXto5(20));
+  }
+}
+```
+
+_Python_
+```python
+addXto5 = lambda x : x + 5
+addXto5(20)
 ```
 
 And here is the same code yet again but with line numbers:
