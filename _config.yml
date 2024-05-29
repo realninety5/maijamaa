@@ -13,7 +13,7 @@
 title: Maijamaa
 
 # Your name to show in the footer
-author: Kingsley Godwin
+#author: Kingsley
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -50,7 +50,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "kingsleyog95@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: realninety5
   twitter: wtf_maijamaa
 #  medium: yourname
