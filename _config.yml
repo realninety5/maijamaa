@@ -13,15 +13,14 @@
 title: Maijamaa
 
 # Your name to show in the footer
-#author: Kingsley
+author: a wanderer afloat a tempest apologue
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  Tech: "https://realninety5.github.io/maijamaa/"
-  Poem: "https://deanattali.com"
+  Poems: "poem"
   About Me: "aboutme"
 
 ################

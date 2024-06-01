@@ -6,8 +6,9 @@ gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
+category: Tech
 mathjax: true
-author: Bill Smith
+author: Kingsley Godwin
 ---
 
 {: .box-success}

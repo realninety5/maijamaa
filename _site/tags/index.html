@@ -15,6 +15,8 @@
 
   
   
+  <meta name="author" content="a wanderer afloat a tempest apologue">
+  
 
   <meta name="description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:&apos;,&apos; | sort -%} {%- for tag...">
 
@@ -131,10 +133,7 @@
   <div class="collapse navbar-collapse" id="main-navbar">
     <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="https://realninety5.github.io/maijamaa/">Tech</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://deanattali.com">Poem</a>
+            <a class="nav-link" href="/poem">Poem</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="/aboutme">About Me</a>
@@ -174,6 +173,54 @@
     var searchjson = '[ \
        \
         { \
+          "title"    : "the beauty within", \
+          "desc"     : "the beauty within", \
+          "category" : "poembeautyexistence", \
+          "url"      : "/2024-06-01-the-beauty-within/", \
+          "date"     : "June  1, 2024" \
+        }, \
+       \
+        { \
+          "title"    : "prance like an kangaroo", \
+          "desc"     : "prance like an kangaroo", \
+          "category" : "poemfantasyjoy", \
+          "url"      : "/2024-06-01-prance-like-an-kangaroo/", \
+          "date"     : "June  1, 2024" \
+        }, \
+       \
+        { \
+          "title"    : "loving may", \
+          "desc"     : "loving may", \
+          "category" : "poemlove", \
+          "url"      : "/2024-06-01-loving-may/", \
+          "date"     : "June  1, 2024" \
+        }, \
+       \
+        { \
+          "title"    : "can i talk to you for a moment", \
+          "desc"     : "can i talk to you for a moment", \
+          "category" : "poemcommunication", \
+          "url"      : "/2024-06-01-can-i-talk-to-you-for-a-moment/", \
+          "date"     : "June  1, 2024" \
+        }, \
+       \
+        { \
+          "title"    : "a scavenger was here", \
+          "desc"     : "a scavenger was here", \
+          "category" : "poemexistentialismabsurdism", \
+          "url"      : "/2024-06-01-a-scavenger-was-here/", \
+          "date"     : "June  1, 2024" \
+        }, \
+       \
+        { \
+          "title"    : "My first tech blog", \
+          "desc"     : "My first tech blog", \
+          "category" : "techpython", \
+          "url"      : "/2024-02-26-My-first-tech-blog/", \
+          "date"     : "February 26, 2024" \
+        }, \
+       \
+        { \
           "title"    : "Sample blog post to learn markdown tips", \
           "desc"     : "Sample blog post to learn markdown tips", \
           "category" : "test", \
@@ -199,6 +246,14 @@
         }, \
        \
         { \
+          "title"    : "solstice", \
+          "desc"     : "solstice", \
+          "category" : "page", \
+          "url"      : "/poem/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
           "title"    : "One tech at a time", \
           "desc"     : "One tech at a time", \
           "category" : "page", \
@@ -211,6 +266,14 @@
           "desc"     : "Tag Index", \
           "category" : "page", \
           "url"      : "/tags/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "One tech at a time", \
+          "desc"     : "One tech at a time", \
+          "category" : "page", \
+          "url"      : "/page2/", \
           "date"     : "January 1, 1970" \
         } \
        \
@@ -262,7 +325,25 @@
     <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
       
 
-      <a href="#books" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;books&nbsp;(1)</a><a href="#test" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;test&nbsp;(2)</a><div id="full-tags-list"><h2 id="books" class="linked-section">
+      <a href="#absurdism" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;absurdism&nbsp;(1)</a><a href="#beauty" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;beauty&nbsp;(1)</a><a href="#books" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;books&nbsp;(1)</a><a href="#communication" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;communication&nbsp;(1)</a><a href="#existence" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;existence&nbsp;(1)</a><a href="#existentialism" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;existentialism&nbsp;(1)</a><a href="#fantasy" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;fantasy&nbsp;(1)</a><a href="#joy" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;joy&nbsp;(1)</a><a href="#love" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;love&nbsp;(1)</a><a href="#poem" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;poem&nbsp;(5)</a><a href="#python" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;python&nbsp;(1)</a><a href="#tech" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;tech&nbsp;(1)</a><a href="#test" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;test&nbsp;(2)</a><div id="full-tags-list"><h2 id="absurdism" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;absurdism&nbsp;(1)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2024-06-01-a-scavenger-was-here/">a scavenger was here</a>
+                <div class="entry-date">
+                    <time datetime="2024-06-01T00:00:00+01:00">June 1, 2024</time>
+                </div>
+            </div></div><h2 id="beauty" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;beauty&nbsp;(1)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2024-06-01-the-beauty-within/">the beauty within</a>
+                <div class="entry-date">
+                    <time datetime="2024-06-01T00:00:00+01:00">June 1, 2024</time>
+                </div>
+            </div></div><h2 id="books" class="linked-section">
         <i class="fas fa-tag" aria-hidden="true"></i>
         &nbsp;books&nbsp;(1)
     </h2>
@@ -270,6 +351,107 @@
                 <a href="/2020-02-26-flake-it-till-you-make-it/">Flake it till you make it</a>
                 <div class="entry-date">
                     <time datetime="2020-02-26T00:00:00+01:00">February 26, 2020</time>
+                </div>
+            </div></div><h2 id="communication" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;communication&nbsp;(1)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2024-06-01-can-i-talk-to-you-for-a-moment/">can i talk to you for a moment</a>
+                <div class="entry-date">
+                    <time datetime="2024-06-01T00:00:00+01:00">June 1, 2024</time>
+                </div>
+            </div></div><h2 id="existence" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;existence&nbsp;(1)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2024-06-01-the-beauty-within/">the beauty within</a>
+                <div class="entry-date">
+                    <time datetime="2024-06-01T00:00:00+01:00">June 1, 2024</time>
+                </div>
+            </div></div><h2 id="existentialism" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;existentialism&nbsp;(1)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2024-06-01-a-scavenger-was-here/">a scavenger was here</a>
+                <div class="entry-date">
+                    <time datetime="2024-06-01T00:00:00+01:00">June 1, 2024</time>
+                </div>
+            </div></div><h2 id="fantasy" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;fantasy&nbsp;(1)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2024-06-01-prance-like-an-kangaroo/">prance like an kangaroo</a>
+                <div class="entry-date">
+                    <time datetime="2024-06-01T00:00:00+01:00">June 1, 2024</time>
+                </div>
+            </div></div><h2 id="joy" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;joy&nbsp;(1)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2024-06-01-prance-like-an-kangaroo/">prance like an kangaroo</a>
+                <div class="entry-date">
+                    <time datetime="2024-06-01T00:00:00+01:00">June 1, 2024</time>
+                </div>
+            </div></div><h2 id="love" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;love&nbsp;(1)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2024-06-01-loving-may/">loving may</a>
+                <div class="entry-date">
+                    <time datetime="2024-06-01T00:00:00+01:00">June 1, 2024</time>
+                </div>
+            </div></div><h2 id="poem" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;poem&nbsp;(5)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2024-06-01-the-beauty-within/">the beauty within</a>
+                <div class="entry-date">
+                    <time datetime="2024-06-01T00:00:00+01:00">June 1, 2024</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2024-06-01-prance-like-an-kangaroo/">prance like an kangaroo</a>
+                <div class="entry-date">
+                    <time datetime="2024-06-01T00:00:00+01:00">June 1, 2024</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2024-06-01-loving-may/">loving may</a>
+                <div class="entry-date">
+                    <time datetime="2024-06-01T00:00:00+01:00">June 1, 2024</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2024-06-01-can-i-talk-to-you-for-a-moment/">can i talk to you for a moment</a>
+                <div class="entry-date">
+                    <time datetime="2024-06-01T00:00:00+01:00">June 1, 2024</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2024-06-01-a-scavenger-was-here/">a scavenger was here</a>
+                <div class="entry-date">
+                    <time datetime="2024-06-01T00:00:00+01:00">June 1, 2024</time>
+                </div>
+            </div></div><h2 id="python" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;python&nbsp;(1)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2024-02-26-My-first-tech-blog/">My first tech blog</a>
+                <div class="entry-date">
+                    <time datetime="2024-02-26T00:00:00+01:00">February 26, 2024</time>
+                </div>
+            </div></div><h2 id="tech" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;tech&nbsp;(1)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2024-02-26-My-first-tech-blog/">My first tech blog</a>
+                <div class="entry-date">
+                    <time datetime="2024-02-26T00:00:00+01:00">February 26, 2024</time>
                 </div>
             </div></div><h2 id="test" class="linked-section">
         <i class="fas fa-tag" aria-hidden="true"></i>
@@ -339,6 +521,9 @@
 
       
       <p class="copyright text-muted">
+      
+        a wanderer afloat a tempest apologue
+        &nbsp;&bull;&nbsp;
       
       2024
 
