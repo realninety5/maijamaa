@@ -15,7 +15,7 @@
         <title>the beauty within</title>
         <description>
           
-          lilac and sands palms and groove my flames falter the story goes thus how time flies and how we go from a smile to existential dichotomy and not know from whence it came life like a vending machine on and on, it spins into existence, a whirlwind that sweeps you...
+          lilac and sands palms and groove my flames falter the story goes thus how time flies and how we go from a smile to existential dichotomy and not know from...
         </description>
         <pubDate>Sat, 01 Jun 2024 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2024-06-01-the-beauty-within/</link>
@@ -26,7 +26,7 @@
         <title>prance like an kangaroo</title>
         <description>
           
-          in this small world of mine where crystals beam and melody flickers i have come a long way to be availed just the pittance to decipher when the birds sing for joy and when they cry for freedom for i have done all but defeat the gods that i still...
+          in this small world of mine where crystals beam and melody flickers i have come a long way to be availed just the pittance to decipher when the birds sing...
         </description>
         <pubDate>Sat, 01 Jun 2024 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2024-06-01-prance-like-an-kangaroo/</link>
@@ -37,7 +37,7 @@
         <title>loving may</title>
         <description>
           
-          it’s april again and my mind like the sun has been shadowed by the thought of you, the eclipse above me but my self-image dwindle always in constant doubt of where my true feeling lies for one, in affair, i go unnoticed if this is what love entails i seek...
+          it’s april again and my mind like the sun has been shadowed by the thought of you, the eclipse above me but my self-image dwindle always in constant doubt of...
         </description>
         <pubDate>Sat, 01 Jun 2024 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2024-06-01-loving-may/</link>
@@ -48,7 +48,7 @@
         <title>can i talk to you for a moment</title>
         <description>
           
-          do we still talk like we used to like we ought to if there was a yardstick for that these days, i speak and i listen you speak and you listen a monologue stricken can we ever get a dialogue when we only listen to ourselves can we ever push...
+          do we still talk like we used to like we ought to if there was a yardstick for that these days, i speak and i listen you speak and you...
         </description>
         <pubDate>Sat, 01 Jun 2024 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2024-06-01-can-i-talk-to-you-for-a-moment/</link>
@@ -59,7 +59,7 @@
         <title>a scavenger was here</title>
         <description>
           
-          residues of a dead fantasy hopes of the hopeless for dreams once foretold, by her fountainhead aloof, hands astride, she stood about ten meters afar her loot she turns left and mutters i have trodden this road before and here too as she turns right. the path before her still...
+          residues of a dead fantasy hopes of the hopeless for dreams once foretold, by her fountainhead aloof, hands astride, she stood about ten meters afar her loot she turns left...
         </description>
         <pubDate>Sat, 01 Jun 2024 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2024-06-01-a-scavenger-was-here/</link>
@@ -67,10 +67,76 @@
       </item>
     
       <item>
+        <title>Flake it till you make it</title>
+        <description>
+          Excerpt from Soulshaping by Jeff Brown - 
+          Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic...
+        </description>
+        <pubDate>Sat, 01 Jun 2024 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2024-06-01-flake-it-till-you-make-it/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-06-01-flake-it-till-you-make-it/</guid>
+      </item>
+    
+      <item>
+        <title>Sample blog post to learn markdown tips</title>
+        <description>
+          There&apos;s lots to learn! - 
+          This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown...
+        </description>
+        <pubDate>Wed, 28 Feb 2024 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2024-02-28-sample-markdowns/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-02-28-sample-markdowns/</guid>
+      </item>
+    
+      <item>
+        <title>Sample blog post to learn markdown tips</title>
+        <description>
+          There&apos;s lots to learn! - 
+          This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown...
+        </description>
+        <pubDate>Wed, 28 Feb 2024 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2024-02-28-sample-markdown/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-02-28-sample-markdown/</guid>
+      </item>
+    
+      <item>
         <title>My first tech blog</title>
         <description>
           
-          Welcome to my first tech blog. Thank you Unreleased version BREAKING CHANGE: Allow changing the order of the social network links that appear in the footer (#1152) BREAKING CHANGE: google-scholar social network link no longer requires the prefix citations?user=; if you previously set this parameter, it needs to be updated...
+          Welcome to my first tech blog. Thank you Unreleased version BREAKING CHANGE: Allow changing the order of the social network links that appear in the footer (#1152) BREAKING CHANGE: google-scholar...
+        </description>
+        <pubDate>Mon, 26 Feb 2024 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2024-02-26-My-first-tech-blogy/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-02-26-My-first-tech-blogy/</guid>
+      </item>
+    
+      <item>
+        <title>My first tech blog</title>
+        <description>
+          
+          Welcome to my first tech blog. Thank you Unreleased version BREAKING CHANGE: Allow changing the order of the social network links that appear in the footer (#1152) BREAKING CHANGE: google-scholar...
+        </description>
+        <pubDate>Mon, 26 Feb 2024 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2024-02-26-My-first-tech-blogf/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-02-26-My-first-tech-blogf/</guid>
+      </item>
+    
+      <item>
+        <title>My first tech blog</title>
+        <description>
+          
+          Welcome to my first tech blog. Thank you Unreleased version BREAKING CHANGE: Allow changing the order of the social network links that appear in the footer (#1152) BREAKING CHANGE: google-scholar...
+        </description>
+        <pubDate>Mon, 26 Feb 2024 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2024-02-26-My-first-tech-blog4/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-02-26-My-first-tech-blog4/</guid>
+      </item>
+    
+      <item>
+        <title>My first tech blog</title>
+        <description>
+          
+          Welcome to my first tech blog. Thank you Unreleased version BREAKING CHANGE: Allow changing the order of the social network links that appear in the footer (#1152) BREAKING CHANGE: google-scholar...
         </description>
         <pubDate>Mon, 26 Feb 2024 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2024-02-26-My-first-tech-blog/</link>
@@ -78,25 +144,47 @@
       </item>
     
       <item>
-        <title>Sample blog post to learn markdown tips</title>
+        <title>My first tech blog</title>
         <description>
-          There&apos;s lots to learn! - 
-          This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/tables/etc.I also encourage you to look at the code that...
+          
+          Welcome to my first tech blog. Thank you Unreleased version BREAKING CHANGE: Allow changing the order of the social network links that appear in the footer (#1152) BREAKING CHANGE: google-scholar...
         </description>
-        <pubDate>Fri, 28 Feb 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2020-02-28-sample-markdown/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-02-28-sample-markdown/</guid>
+        <pubDate>Mon, 26 Feb 2024 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2024-02-26-My-first-tech-blogd/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-02-26-My-first-tech-blogd/</guid>
       </item>
     
       <item>
-        <title>Flake it till you make it</title>
+        <title>My first tech blog</title>
         <description>
-          Excerpt from Soulshaping by Jeff Brown - 
-          Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who...
+          
+          Welcome to my first tech blog. Thank you Unreleased version BREAKING CHANGE: Allow changing the order of the social network links that appear in the footer (#1152) BREAKING CHANGE: google-scholar...
         </description>
-        <pubDate>Wed, 26 Feb 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2020-02-26-flake-it-till-you-make-it/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-02-26-flake-it-till-you-make-it/</guid>
+        <pubDate>Mon, 26 Feb 2024 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2024-02-26-My-first-tech-blogc/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-02-26-My-first-tech-blogc/</guid>
+      </item>
+    
+      <item>
+        <title>My first tech blog</title>
+        <description>
+          
+          Welcome to my first tech blog. Thank you Unreleased version BREAKING CHANGE: Allow changing the order of the social network links that appear in the footer (#1152) BREAKING CHANGE: google-scholar...
+        </description>
+        <pubDate>Mon, 26 Feb 2024 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2024-02-26-My-first-tech-blogb/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-02-26-My-first-tech-blogb/</guid>
+      </item>
+    
+      <item>
+        <title>My first tech blog</title>
+        <description>
+          
+          Welcome to my first tech blog. Thank you Unreleased version BREAKING CHANGE: Allow changing the order of the social network links that appear in the footer (#1152) BREAKING CHANGE: google-scholar...
+        </description>
+        <pubDate>Mon, 26 Feb 2024 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2024-02-26-My-first-tech-bloga/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-02-26-My-first-tech-bloga/</guid>
       </item>
     
   </channel>

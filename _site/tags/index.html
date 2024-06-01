@@ -18,7 +18,7 @@
   <meta name="author" content="a wanderer afloat a tempest apologue">
   
 
-  <meta name="description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:&apos;,&apos; | sort -%} {%- for tag...">
+  <meta name="description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless...">
 
   
 
@@ -82,7 +82,7 @@
   
   <meta property="og:site_name" content="Maijamaa">
   <meta property="og:title" content="Tag Index | Maijamaa">
-  <meta property="og:description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:&apos;,&apos; | sort -%} {%- for tag...">
+  <meta property="og:description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless...">
 
   
   <meta property="og:image" content="http://localhost:4000/assets/img/ninety5icon.png">
@@ -101,7 +101,7 @@
   <meta name="twitter:creator" content="@wtf_maijamaa">
 
   <meta property="twitter:title" content="Tag Index | Maijamaa">
-  <meta property="twitter:description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:&apos;,&apos; | sort -%} {%- for tag...">
+  <meta property="twitter:description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless...">
 
   
   <meta name="twitter:image" content="http://localhost:4000/assets/img/ninety5icon.png">
@@ -133,7 +133,7 @@
   <div class="collapse navbar-collapse" id="main-navbar">
     <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="/poem">Poem</a>
+            <a class="nav-link" href="/poem">Poems</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="/aboutme">About Me</a>
@@ -213,6 +213,54 @@
         }, \
        \
         { \
+          "title"    : "Flake it till you make it", \
+          "desc"     : "Flake it till you make it", \
+          "category" : "bookstest", \
+          "url"      : "/2024-06-01-flake-it-till-you-make-it/", \
+          "date"     : "June  1, 2024" \
+        }, \
+       \
+        { \
+          "title"    : "Sample blog post to learn markdown tips", \
+          "desc"     : "Sample blog post to learn markdown tips", \
+          "category" : "test", \
+          "url"      : "/2024-02-28-sample-markdowns/", \
+          "date"     : "February 28, 2024" \
+        }, \
+       \
+        { \
+          "title"    : "Sample blog post to learn markdown tips", \
+          "desc"     : "Sample blog post to learn markdown tips", \
+          "category" : "test", \
+          "url"      : "/2024-02-28-sample-markdown/", \
+          "date"     : "February 28, 2024" \
+        }, \
+       \
+        { \
+          "title"    : "My first tech blog", \
+          "desc"     : "My first tech blog", \
+          "category" : "techpython", \
+          "url"      : "/2024-02-26-My-first-tech-blogy/", \
+          "date"     : "February 26, 2024" \
+        }, \
+       \
+        { \
+          "title"    : "My first tech blog", \
+          "desc"     : "My first tech blog", \
+          "category" : "techpython", \
+          "url"      : "/2024-02-26-My-first-tech-blogf/", \
+          "date"     : "February 26, 2024" \
+        }, \
+       \
+        { \
+          "title"    : "My first tech blog", \
+          "desc"     : "My first tech blog", \
+          "category" : "techpython", \
+          "url"      : "/2024-02-26-My-first-tech-blog4/", \
+          "date"     : "February 26, 2024" \
+        }, \
+       \
+        { \
           "title"    : "My first tech blog", \
           "desc"     : "My first tech blog", \
           "category" : "techpython", \
@@ -221,19 +269,35 @@
         }, \
        \
         { \
-          "title"    : "Sample blog post to learn markdown tips", \
-          "desc"     : "Sample blog post to learn markdown tips", \
-          "category" : "test", \
-          "url"      : "/2020-02-28-sample-markdown/", \
-          "date"     : "February 28, 2020" \
+          "title"    : "My first tech blog", \
+          "desc"     : "My first tech blog", \
+          "category" : "techpython", \
+          "url"      : "/2024-02-26-My-first-tech-blogd/", \
+          "date"     : "February 26, 2024" \
         }, \
        \
         { \
-          "title"    : "Flake it till you make it", \
-          "desc"     : "Flake it till you make it", \
-          "category" : "bookstest", \
-          "url"      : "/2020-02-26-flake-it-till-you-make-it/", \
-          "date"     : "February 26, 2020" \
+          "title"    : "My first tech blog", \
+          "desc"     : "My first tech blog", \
+          "category" : "techpython", \
+          "url"      : "/2024-02-26-My-first-tech-blogc/", \
+          "date"     : "February 26, 2024" \
+        }, \
+       \
+        { \
+          "title"    : "My first tech blog", \
+          "desc"     : "My first tech blog", \
+          "category" : "techpython", \
+          "url"      : "/2024-02-26-My-first-tech-blogb/", \
+          "date"     : "February 26, 2024" \
+        }, \
+       \
+        { \
+          "title"    : "My first tech blog", \
+          "desc"     : "My first tech blog", \
+          "category" : "techpython", \
+          "url"      : "/2024-02-26-My-first-tech-bloga/", \
+          "date"     : "February 26, 2024" \
         }, \
        \
        \
@@ -266,14 +330,6 @@
           "desc"     : "Tag Index", \
           "category" : "page", \
           "url"      : "/tags/", \
-          "date"     : "January 1, 1970" \
-        }, \
-       \
-        { \
-          "title"    : "One tech at a time", \
-          "desc"     : "One tech at a time", \
-          "category" : "page", \
-          "url"      : "/page2/", \
           "date"     : "January 1, 1970" \
         } \
        \
@@ -325,7 +381,7 @@
     <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
       
 
-      <a href="#absurdism" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;absurdism&nbsp;(1)</a><a href="#beauty" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;beauty&nbsp;(1)</a><a href="#books" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;books&nbsp;(1)</a><a href="#communication" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;communication&nbsp;(1)</a><a href="#existence" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;existence&nbsp;(1)</a><a href="#existentialism" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;existentialism&nbsp;(1)</a><a href="#fantasy" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;fantasy&nbsp;(1)</a><a href="#joy" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;joy&nbsp;(1)</a><a href="#love" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;love&nbsp;(1)</a><a href="#poem" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;poem&nbsp;(5)</a><a href="#python" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;python&nbsp;(1)</a><a href="#tech" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;tech&nbsp;(1)</a><a href="#test" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;test&nbsp;(2)</a><div id="full-tags-list"><h2 id="absurdism" class="linked-section">
+      <a href="#absurdism" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;absurdism&nbsp;(1)</a><a href="#beauty" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;beauty&nbsp;(1)</a><a href="#books" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;books&nbsp;(1)</a><a href="#communication" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;communication&nbsp;(1)</a><a href="#existence" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;existence&nbsp;(1)</a><a href="#existentialism" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;existentialism&nbsp;(1)</a><a href="#fantasy" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;fantasy&nbsp;(1)</a><a href="#joy" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;joy&nbsp;(1)</a><a href="#love" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;love&nbsp;(1)</a><a href="#poem" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;poem&nbsp;(5)</a><a href="#python" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;python&nbsp;(8)</a><a href="#tech" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;tech&nbsp;(8)</a><a href="#test" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;test&nbsp;(3)</a><div id="full-tags-list"><h2 id="absurdism" class="linked-section">
         <i class="fas fa-tag" aria-hidden="true"></i>
         &nbsp;absurdism&nbsp;(1)
     </h2>
@@ -348,9 +404,9 @@
         &nbsp;books&nbsp;(1)
     </h2>
     <div class="post-list"><div class="tag-entry">
-                <a href="/2020-02-26-flake-it-till-you-make-it/">Flake it till you make it</a>
+                <a href="/2024-06-01-flake-it-till-you-make-it/">Flake it till you make it</a>
                 <div class="entry-date">
-                    <time datetime="2020-02-26T00:00:00+01:00">February 26, 2020</time>
+                    <time datetime="2024-06-01T00:00:00+01:00">June 1, 2024</time>
                 </div>
             </div></div><h2 id="communication" class="linked-section">
         <i class="fas fa-tag" aria-hidden="true"></i>
@@ -437,35 +493,110 @@
                 </div>
             </div></div><h2 id="python" class="linked-section">
         <i class="fas fa-tag" aria-hidden="true"></i>
-        &nbsp;python&nbsp;(1)
+        &nbsp;python&nbsp;(8)
     </h2>
     <div class="post-list"><div class="tag-entry">
+                <a href="/2024-02-26-My-first-tech-blogy/">My first tech blog</a>
+                <div class="entry-date">
+                    <time datetime="2024-02-26T00:00:00+01:00">February 26, 2024</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2024-02-26-My-first-tech-blogf/">My first tech blog</a>
+                <div class="entry-date">
+                    <time datetime="2024-02-26T00:00:00+01:00">February 26, 2024</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2024-02-26-My-first-tech-blog4/">My first tech blog</a>
+                <div class="entry-date">
+                    <time datetime="2024-02-26T00:00:00+01:00">February 26, 2024</time>
+                </div>
+            </div><div class="tag-entry">
                 <a href="/2024-02-26-My-first-tech-blog/">My first tech blog</a>
+                <div class="entry-date">
+                    <time datetime="2024-02-26T00:00:00+01:00">February 26, 2024</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2024-02-26-My-first-tech-blogd/">My first tech blog</a>
+                <div class="entry-date">
+                    <time datetime="2024-02-26T00:00:00+01:00">February 26, 2024</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2024-02-26-My-first-tech-blogc/">My first tech blog</a>
+                <div class="entry-date">
+                    <time datetime="2024-02-26T00:00:00+01:00">February 26, 2024</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2024-02-26-My-first-tech-blogb/">My first tech blog</a>
+                <div class="entry-date">
+                    <time datetime="2024-02-26T00:00:00+01:00">February 26, 2024</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2024-02-26-My-first-tech-bloga/">My first tech blog</a>
                 <div class="entry-date">
                     <time datetime="2024-02-26T00:00:00+01:00">February 26, 2024</time>
                 </div>
             </div></div><h2 id="tech" class="linked-section">
         <i class="fas fa-tag" aria-hidden="true"></i>
-        &nbsp;tech&nbsp;(1)
+        &nbsp;tech&nbsp;(8)
     </h2>
     <div class="post-list"><div class="tag-entry">
+                <a href="/2024-02-26-My-first-tech-blogy/">My first tech blog</a>
+                <div class="entry-date">
+                    <time datetime="2024-02-26T00:00:00+01:00">February 26, 2024</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2024-02-26-My-first-tech-blogf/">My first tech blog</a>
+                <div class="entry-date">
+                    <time datetime="2024-02-26T00:00:00+01:00">February 26, 2024</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2024-02-26-My-first-tech-blog4/">My first tech blog</a>
+                <div class="entry-date">
+                    <time datetime="2024-02-26T00:00:00+01:00">February 26, 2024</time>
+                </div>
+            </div><div class="tag-entry">
                 <a href="/2024-02-26-My-first-tech-blog/">My first tech blog</a>
+                <div class="entry-date">
+                    <time datetime="2024-02-26T00:00:00+01:00">February 26, 2024</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2024-02-26-My-first-tech-blogd/">My first tech blog</a>
+                <div class="entry-date">
+                    <time datetime="2024-02-26T00:00:00+01:00">February 26, 2024</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2024-02-26-My-first-tech-blogc/">My first tech blog</a>
+                <div class="entry-date">
+                    <time datetime="2024-02-26T00:00:00+01:00">February 26, 2024</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2024-02-26-My-first-tech-blogb/">My first tech blog</a>
+                <div class="entry-date">
+                    <time datetime="2024-02-26T00:00:00+01:00">February 26, 2024</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2024-02-26-My-first-tech-bloga/">My first tech blog</a>
                 <div class="entry-date">
                     <time datetime="2024-02-26T00:00:00+01:00">February 26, 2024</time>
                 </div>
             </div></div><h2 id="test" class="linked-section">
         <i class="fas fa-tag" aria-hidden="true"></i>
-        &nbsp;test&nbsp;(2)
+        &nbsp;test&nbsp;(3)
     </h2>
     <div class="post-list"><div class="tag-entry">
-                <a href="/2020-02-28-sample-markdown/">Sample blog post to learn markdown tips</a>
+                <a href="/2024-06-01-flake-it-till-you-make-it/">Flake it till you make it</a>
                 <div class="entry-date">
-                    <time datetime="2020-02-28T00:00:00+01:00">February 28, 2020</time>
+                    <time datetime="2024-06-01T00:00:00+01:00">June 1, 2024</time>
                 </div>
             </div><div class="tag-entry">
-                <a href="/2020-02-26-flake-it-till-you-make-it/">Flake it till you make it</a>
+                <a href="/2024-02-28-sample-markdowns/">Sample blog post to learn markdown tips</a>
                 <div class="entry-date">
-                    <time datetime="2020-02-26T00:00:00+01:00">February 26, 2020</time>
+                    <time datetime="2024-02-28T00:00:00+01:00">February 28, 2024</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2024-02-28-sample-markdown/">Sample blog post to learn markdown tips</a>
+                <div class="entry-date">
+                    <time datetime="2024-02-28T00:00:00+01:00">February 28, 2024</time>
                 </div>
             </div></div></div>
 
