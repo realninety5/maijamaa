@@ -67,124 +67,17 @@
       </item>
     
       <item>
-        <title>Flake it till you make it</title>
-        <description>
-          Excerpt from Soulshaping by Jeff Brown - 
-          Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic...
-        </description>
-        <pubDate>Sat, 01 Jun 2024 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2024-06-01-flake-it-till-you-make-it/</link>
-        <guid isPermaLink="true">http://localhost:4000/2024-06-01-flake-it-till-you-make-it/</guid>
-      </item>
-    
-      <item>
-        <title>Sample blog post to learn markdown tips</title>
-        <description>
-          There&apos;s lots to learn! - 
-          This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown...
-        </description>
-        <pubDate>Wed, 28 Feb 2024 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2024-02-28-sample-markdowns/</link>
-        <guid isPermaLink="true">http://localhost:4000/2024-02-28-sample-markdowns/</guid>
-      </item>
-    
-      <item>
-        <title>Sample blog post to learn markdown tips</title>
-        <description>
-          There&apos;s lots to learn! - 
-          This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown...
-        </description>
-        <pubDate>Wed, 28 Feb 2024 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2024-02-28-sample-markdown/</link>
-        <guid isPermaLink="true">http://localhost:4000/2024-02-28-sample-markdown/</guid>
-      </item>
-    
-      <item>
         <title>My first tech blog</title>
         <description>
           
-          Welcome to my first tech blog. Thank you Unreleased version BREAKING CHANGE: Allow changing the order of the social network links that appear in the footer (#1152) BREAKING CHANGE: google-scholar...
-        </description>
-        <pubDate>Mon, 26 Feb 2024 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2024-02-26-My-first-tech-blogy/</link>
-        <guid isPermaLink="true">http://localhost:4000/2024-02-26-My-first-tech-blogy/</guid>
-      </item>
-    
-      <item>
-        <title>My first tech blog</title>
-        <description>
-          
-          Welcome to my first tech blog. Thank you Unreleased version BREAKING CHANGE: Allow changing the order of the social network links that appear in the footer (#1152) BREAKING CHANGE: google-scholar...
-        </description>
-        <pubDate>Mon, 26 Feb 2024 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2024-02-26-My-first-tech-blogf/</link>
-        <guid isPermaLink="true">http://localhost:4000/2024-02-26-My-first-tech-blogf/</guid>
-      </item>
-    
-      <item>
-        <title>My first tech blog</title>
-        <description>
-          
-          Welcome to my first tech blog. Thank you Unreleased version BREAKING CHANGE: Allow changing the order of the social network links that appear in the footer (#1152) BREAKING CHANGE: google-scholar...
-        </description>
-        <pubDate>Mon, 26 Feb 2024 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2024-02-26-My-first-tech-blog4/</link>
-        <guid isPermaLink="true">http://localhost:4000/2024-02-26-My-first-tech-blog4/</guid>
-      </item>
-    
-      <item>
-        <title>My first tech blog</title>
-        <description>
-          
-          Welcome to my first tech blog. Thank you Unreleased version BREAKING CHANGE: Allow changing the order of the social network links that appear in the footer (#1152) BREAKING CHANGE: google-scholar...
+          Welcome to my first tech blog. Thank you.
+
+More contents coming soon!
+
         </description>
         <pubDate>Mon, 26 Feb 2024 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2024-02-26-My-first-tech-blog/</link>
         <guid isPermaLink="true">http://localhost:4000/2024-02-26-My-first-tech-blog/</guid>
-      </item>
-    
-      <item>
-        <title>My first tech blog</title>
-        <description>
-          
-          Welcome to my first tech blog. Thank you Unreleased version BREAKING CHANGE: Allow changing the order of the social network links that appear in the footer (#1152) BREAKING CHANGE: google-scholar...
-        </description>
-        <pubDate>Mon, 26 Feb 2024 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2024-02-26-My-first-tech-blogd/</link>
-        <guid isPermaLink="true">http://localhost:4000/2024-02-26-My-first-tech-blogd/</guid>
-      </item>
-    
-      <item>
-        <title>My first tech blog</title>
-        <description>
-          
-          Welcome to my first tech blog. Thank you Unreleased version BREAKING CHANGE: Allow changing the order of the social network links that appear in the footer (#1152) BREAKING CHANGE: google-scholar...
-        </description>
-        <pubDate>Mon, 26 Feb 2024 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2024-02-26-My-first-tech-blogc/</link>
-        <guid isPermaLink="true">http://localhost:4000/2024-02-26-My-first-tech-blogc/</guid>
-      </item>
-    
-      <item>
-        <title>My first tech blog</title>
-        <description>
-          
-          Welcome to my first tech blog. Thank you Unreleased version BREAKING CHANGE: Allow changing the order of the social network links that appear in the footer (#1152) BREAKING CHANGE: google-scholar...
-        </description>
-        <pubDate>Mon, 26 Feb 2024 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2024-02-26-My-first-tech-blogb/</link>
-        <guid isPermaLink="true">http://localhost:4000/2024-02-26-My-first-tech-blogb/</guid>
-      </item>
-    
-      <item>
-        <title>My first tech blog</title>
-        <description>
-          
-          Welcome to my first tech blog. Thank you Unreleased version BREAKING CHANGE: Allow changing the order of the social network links that appear in the footer (#1152) BREAKING CHANGE: google-scholar...
-        </description>
-        <pubDate>Mon, 26 Feb 2024 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2024-02-26-My-first-tech-bloga/</link>
-        <guid isPermaLink="true">http://localhost:4000/2024-02-26-My-first-tech-bloga/</guid>
       </item>
     
   </channel>
