@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: I think therefore I am.
+subtitle: Son of a chick.
 ---
-
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+Kingsley Godwin here! I’m a passionate software developer by day and moonlight as a poetic dreamer by night. When I'm not knee-deep in code, you can find me scribbling verses about life, love, and everything in between. Writing poems adds a touch of artistry to my tech-filled world.
+
+Learning new things is my jam—whether it's picking up a new programming language, exploring a new hobby, or simply daydreaming about another 'why/how'. Curiosity fuels my journey, and I'm always on the lookout for the next exciting challenge.
+
+Join me as I navigate the realms of software development and poetic musings. Let's code, create, and dream together!
